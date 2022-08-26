@@ -1,1 +1,2 @@
-# k8s
+# k8s-bluegreen
+Harness Blue green deployment details
